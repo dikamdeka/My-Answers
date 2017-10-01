@@ -1,2 +1,2 @@
 # My-Answers
-My Quora answers
+My Quora answers daily updated.
